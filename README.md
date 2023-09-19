@@ -81,7 +81,7 @@ Coding convention: https://dart.dev/effective-dart/style
           style: Theme.of(context).textTheme.headlineLarge,
         ),
 7. Tách hàm với các đoạn code dài (Đặc biệt chú ý file screen)
-8. Chỉ sử nháy đơn với String:
+8. Chỉ sử dụng nháy đơn với String:
 * Đúng: 'Đây là String'
 * Sai: "Đây là String"
 9. Tất cả các String đều phải đặt trong file ngôn ngữ: app/lang/vi.dart
